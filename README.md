@@ -5,7 +5,7 @@ $ npm install --save interpolate-all
 
 ## Import
 ```javascript
-import interpolate from "interpolate"
+import interpolate from "interpolate-all"
 ```
 
 ## Syntax
